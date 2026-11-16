@@ -1,5 +1,5 @@
 {
- "version": "0.5.0",
- "file": "versiones/LMU-Coach-v0.5.0.zip",
- "notes": "- Estrategia de carrera: ventana de pits, cuánto cargar, aviso de entrar, undercut/overcut cuando paran los rivales, desgaste y degradación. Di «estrategia» por radio.\n- Clima: aviso de lluvia y humedad, cuándo pasar a llantas de lluvia o volver a slicks.\n- Modo consistencia: 5 vueltas parejas y en qué curva varías más.\n- Comparar contra un amigo: exporta tu vuelta e importa la de tus amigos (Sesiones), elígela en Coach → Comparar contra.\n- Mi progreso: tu mejor vuelta y consistencia por pista a lo largo de las sesiones.\n- Biblioteca de setups: cada sesión guarda el .svm usado y el debrief muestra qué cambió.\n- Ingeniero de setup con IA: marcas lo que sientes y Claude lo cruza con tus datos y tu setup.\n- Preguntas libres por radio con Claude, overlay siempre encima del juego y panel en el celular."
+ "version": "0.6.0",
+ "file": "versiones/Kerbo-Race-Coach-v0.6.0.zip",
+ "notes": "- Nuevo nombre: Kerbo Race Coach, con icono propio (ya no sale el de Python en la barra de tareas). Al abrir se crea el acceso directo nuevo en el Escritorio y se quita el viejo.\n- Compatibilidad con iRacing: la app detecta sola si está abierto LMU o iRacing (o elige uno en Ajustes → Simulador). iRacing no necesita configuración.\n- En iRacing funciona el coaching por curva, delta, rivales, combustible, estrategia, banderas, lluvia, consistencia, amigos, debrief e IA.\n- Limitaciones de iRacing: no publica deslizamiento por rueda ni señal de TC actuando; el patinaje se estima con la deriva trasera y los bloqueos solo se ven vía ABS. Llantas solo se actualizan en pits.\n- El diagnóstico ahora también revisa iRacing."
 }
