@@ -4,7 +4,7 @@ Race engineer por voz para **Le Mans Ultimate**: te dice en qué curva pierdes t
 
 ## Descargar
 
-**Última versión: [LMU-Coach-v0.4.0.zip](versiones/LMU-Coach-v0.4.0.zip)** (botón *Download raw file* en la página del archivo).
+**Última versión: [LMU-Coach-v0.5.0.zip](versiones/LMU-Coach-v0.5.0.zip)** (botón *Download raw file* en la página del archivo).
 
 1. Descomprime el zip en `Documentos`.
 2. Ejecuta `instalar.bat` (instala Python si hace falta y crea el acceso directo **LMU Race Coach** en el Escritorio).
@@ -13,12 +13,16 @@ Race engineer por voz para **Le Mans Ultimate**: te dice en qué curva pierdes t
 
 La app se actualiza sola desde aquí (*Ajustes → Buscar actualizaciones*), conservando tus sesiones y tu configuración.
 
-## Novedades v0.4.0
+## Novedades v0.5.0
 
-- Nombres reales de las curvas: La Source, Eau Rouge, Bus Stop… (Spa y Monza Curva Grande). Doble clic en la tabla de curvas para nombrar las de cualquier circuito.
-- Vuelta fantasma: delta en vivo contra tu mejor vuelta y aviso hablado al cerrar cada sector (nivel Coach o Máximo).
-- Debrief con gráfica: tu mejor vuelta contra una vuelta típica, con velocidad y tiempo perdido curva por curva.
-- Las actualizaciones ahora llegan desde el repositorio público de versiones.
+- Estrategia de carrera: ventana de pits, cuánto cargar, aviso de entrar, undercut/overcut cuando paran los rivales, desgaste y degradación. Di «estrategia» por radio.
+- Clima: aviso de lluvia y humedad, cuándo pasar a llantas de lluvia o volver a slicks.
+- Modo consistencia: 5 vueltas parejas y en qué curva varías más.
+- Comparar contra un amigo: exporta tu vuelta e importa la de tus amigos (Sesiones), elígela en Coach → Comparar contra.
+- Mi progreso: tu mejor vuelta y consistencia por pista a lo largo de las sesiones.
+- Biblioteca de setups: cada sesión guarda el .svm usado y el debrief muestra qué cambió.
+- Ingeniero de setup con IA: marcas lo que sientes y Claude lo cruza con tus datos y tu setup.
+- Preguntas libres por radio con Claude, overlay siempre encima del juego y panel en el celular.
 
 ---
 Proyecto independiente, sin relación con Le Mans Ultimate ni con sus desarrolladores. Beta.
