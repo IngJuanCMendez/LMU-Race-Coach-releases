@@ -1,5 +1,5 @@
 {
- "version": "0.3.3",
- "file": "versiones/LMU-Coach-v0.3.3.zip",
- "notes": "- Ajuste guiado de ayudas en práctica: el coach propone cambios de reparto de freno, ABS, TC Cut y TC Slip y mide en 2 vueltas si te hacen más rápido.\n- Reparto de freno según cómo trabajan los ejes en frenada recta y el balance al entrar frenando.\n- ABS y TC medidos curva por curva (también en el debrief).\n- Se ignoran trompos y salidas de pista en el coaching.\n- Menos avisos repetidos de posición y llantas; nombres de rivales más claros.\n- Ya no pide entrar a pits si la energía alcanza para terminar.\n- Actualizaciones automáticas desde este repositorio."
+ "version": "0.4.0",
+ "file": "versiones/LMU-Coach-v0.4.0.zip",
+ "notes": "- Nombres reales de las curvas: La Source, Eau Rouge, Bus Stop… (Spa y Monza Curva Grande). Doble clic en la tabla de curvas para nombrar las de cualquier circuito.\n- Vuelta fantasma: delta en vivo contra tu mejor vuelta y aviso hablado al cerrar cada sector (nivel Coach o Máximo).\n- Debrief con gráfica: tu mejor vuelta contra una vuelta típica, con velocidad y tiempo perdido curva por curva.\n- Las actualizaciones ahora llegan desde el repositorio público de versiones."
 }
